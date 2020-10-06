@@ -1,7 +1,7 @@
-### Hi there 👋
+![Welcome](https://github.com/robvanderleek/robvanderleek/blob/master/welcome.gif)
 
 <!--
-**HiMiC/himic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**robvanderleek/robvanderleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
